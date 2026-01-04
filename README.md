@@ -1,5 +1,5 @@
 # node-sdk
 
-A node sdk for algorithmic traders of Predict Ontario.
+A node sdk for algorithmic prediction traders.
 
 Coming soon™
